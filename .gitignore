@@ -1,0 +1,32 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Directorio del entorno virtual
+venv/
+
+# Archivos de configuración específicos del entorno
+.env
+
+# Archivos y directorios generados por IDEs y editores
+.vscode/
+.idea/
+*.iml
+*.pyproj
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Archivos de caché y registro de pruebas
+*.pytest_cache/
+pytest-debug.log
+
+# Archivos y directorios específicos de la plataforma
+__MACOSX/
+.DS_Store
+Thumbs.db
